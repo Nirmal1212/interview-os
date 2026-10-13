@@ -38,15 +38,15 @@
 - [x] 6.1 Write `claude-skill/SKILL.md` that references `core/workflow.md` rather than copying it, verified by a grep check that the workflow rules appear only in core/
 - [x] 6.2 Build the change log into the skill's report step, verified by the SKILL.md step 7 showing the `apply_edits` and `render_markdown` calls against the tested module
 - [x] 6.3 Install the skill locally from its folder and run one end-to-end session on a synthetic resume and JD, verified by the output .docx existing with the expected name, a before/after score, and the change log ending with the disclaimer
-- [ ] 6.4 Confirm the reply shows the change log by default and ends with the disclaimer, verified by one manual run of the installed skill
+- [x] 6.4 Confirm the reply shows the change log by default and ends with the disclaimer, verified by one manual run of the installed skill
 - [x] 6.5 Package the skill as a Claude plugin: `resume-optimization/.claude-plugin/plugin.json`, a root `.claude-plugin/marketplace.json` listing it, and the skill under `skills/ats-resume-optimizer/` with `core/` beside it, verified by both JSON files parsing and the marketplace source resolving to a folder with the manifest and SKILL.md
-- [ ] 6.6 Install from the marketplace with `/plugin marketplace add` and `/plugin install ats-resume-optimizer@interview-os`, then run one session, verified by the skill being listed and producing the change log with the disclaimer
+- [x] 6.6 Install from the marketplace with `/plugin marketplace add` and `/plugin install ats-resume-optimizer@interview-os`, then run one session, verified by the skill being listed and producing the change log with the disclaimer
 
 ## 7. Public release readiness
 
 - [x] 7.1 Check the license of `python-docx` and `pypdf` from their package metadata and record each in a dependency table in `core/README.md`, verified by the table listing both with a license identifier
 - [x] 7.2 Score five synthetic resume and JD pairs whose expected scores are computed by hand, and record the results in `core/README.md`, verified by each scorer output matching its hand-computed value
-- [ ] 7.3 Add the README with install steps, the keyword-match disclaimer, the change-log description, and the data-handling note, verified by a reviewer following the install steps on a clean machine
+- [x] 7.3 Add the README with install steps, the keyword-match disclaimer, the change-log description, and the data-handling note, verified by a reviewer following the install steps on a clean machine
 
 ## Deferred to a follow-up change
 
