@@ -1,0 +1,9 @@
+{
+  "name": "mock-design-interview",
+  "version": "0.1.0",
+  "description": "Practice system design interviews with a realistic, interactive interviewer. Ends with a scorecard, a level signal, improvement advice, and a reference design.",
+  "author": { "name": "Nirmalkumar Sathiamurthi" },
+  "homepage": "https://github.com/Nirmal1212/interview-os",
+  "repository": "https://github.com/Nirmal1212/interview-os",
+  "keywords": ["system-design", "interview-prep", "mock-interview", "data-engineering"]
+}
