@@ -51,6 +51,18 @@ The optimizer never adds an employer, project, metric, credential, or skill that
 - When you use the skill in Claude, the resume and job description you share become part of that Claude conversation, so they are handled under Claude's terms for that product.
 - The optimizer does not keep copies of your resume. It writes a new output file and never writes to your master.
 
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). See the `LICENSE` file at the repository root.
+
+In short:
+
+- You may use, modify, and redistribute this software.
+- Any copy or modified version you distribute must also be licensed under the AGPL-3.0, with its source code available.
+- If you run a modified version as a network service, you must offer its source code to the users of that service.
+
+So forks of this project stay open source under the same terms.
+
 ## For contributors
 
 The plugin lives in `resume-optimization/`. Its layout:
