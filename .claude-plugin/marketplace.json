@@ -1,0 +1,13 @@
+{
+  "name": "interview-os",
+  "description": "interview-os: skills for preparing engineers for interviews and resumes.",
+  "owner": { "name": "Nirmalkumar Sathiamurthi" },
+  "plugins": [
+    {
+      "name": "ats-resume-optimizer",
+      "source": "./resume-optimization",
+      "description": "Tailor a master resume to a job description, with a change log showing each change's ATS impact.",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ats-resume-optimizer",
+  "version": "0.1.0",
+  "description": "Tailor a master resume to one job description with truthful, minimal edits. Shows a change log with the ATS impact of each change.",
+  "author": { "name": "Nirmalkumar Sathiamurthi" },
+  "homepage": "https://github.com/Nirmal1212/interview-os",
+  "repository": "https://github.com/Nirmal1212/interview-os",
+  "keywords": ["resume", "ats", "job-search", "interview-prep"]
+}

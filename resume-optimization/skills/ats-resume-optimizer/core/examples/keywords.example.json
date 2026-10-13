@@ -1,0 +1,9 @@
+{
+  "keywords": [
+    {"term": "Kubernetes", "weight": 3, "alternates": ["k8s"]},
+    {"term": "CI/CD", "weight": 2, "alternates": ["continuous integration", "continuous delivery"]},
+    {"term": "Terraform", "weight": 2, "alternates": []},
+    {"term": "Python", "weight": 3, "alternates": []},
+    {"term": "Leadership", "weight": 1, "alternates": ["led a team"]}
+  ]
+}
