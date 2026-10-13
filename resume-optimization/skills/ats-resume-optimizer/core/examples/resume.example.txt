@@ -1,0 +1,20 @@
+Jane Doe
+Data Engineer | jane.doe@example.com | +1 555 0100
+
+SUMMARY
+Data engineer with six years building batch and streaming pipelines.
+
+EXPERIENCE
+Senior Data Engineer, Example Corp (2021 - Present)
+- Built pipeline deployments on k8s clusters, cutting release time by 40 percent
+- Introduced continuous integration for all ETL repositories
+- Wrote data quality tools in Python used by four teams
+
+Data Engineer, Sample Labs (2018 - 2021)
+- Maintained warehouse loads and scheduled jobs
+
+SKILLS
+Python, SQL, Apache Spark, Airflow
+
+EDUCATION
+B.Sc. Computer Science, Sample University (2018)
