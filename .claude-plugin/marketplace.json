@@ -8,6 +8,12 @@
       "source": "./resume-optimization",
       "description": "Tailor a master resume to a job description, with a change log showing each change's ATS impact.",
       "version": "0.1.0"
+    },
+    {
+      "name": "mock-design-interview",
+      "source": "./mock-design-interview",
+      "description": "Practice system design interviews with a realistic, interactive interviewer, ending with a scorecard and reference design.",
+      "version": "0.1.0"
     }
   ]
 }
