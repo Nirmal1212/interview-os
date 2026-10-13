@@ -1,0 +1,16 @@
+{
+  "name": "mock-code-review",
+  "version": "0.1.0",
+  "description": "Practice code review with a realistic interviewer. The session generates a change in your language and job domain, with issues planted for you to find. Ends with a scorecard and a reference review.",
+  "author": {
+    "name": "Nirmalkumar Sathiamurthi"
+  },
+  "homepage": "https://github.com/Nirmal1212/interview-os",
+  "repository": "https://github.com/Nirmal1212/interview-os",
+  "keywords": [
+    "code-review",
+    "interview-prep",
+    "mock-interview",
+    "software-engineering"
+  ]
+}
